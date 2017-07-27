@@ -1,0 +1,2 @@
+# lpc1679_lpc1678_cmsis_oldlibrary
+lib
